@@ -1,111 +1,110 @@
-[
-{
-"id": 1,
-"category_id": 1,
-"category": "Text",
-"question": "What age are you?",
-"answers": [
-{
-"id": 3,
-"category_id": 1,
-"category": "Text",
-"answer": "22",
-"correct_answer": 1
-},
-{
-"id": 6,
-"category_id": 1,
-"category": "Text",
-"answer": "20",
-"correct_answer": 0
-},
-{
-"id": 7,
-"category_id": 1,
-"category": "Text",
-"answer": "30",
-"correct_answer": 0
-},
-{
-"id": 8,
-"category_id": 1,
-"category": "Text",
-"answer": "40",
-"correct_answer": 0
-}
+[ 
+   { 
+      "id":1,
+      "category_id":1,
+      "category":"Text",
+      "question":"What age are you?",
+      "answers":[ 
+         { 
+            "id":3,
+            "category_id":1,
+            "category":"Text",
+            "answer":"22",
+            "correct_answer":1
+         },
+         { 
+            "id":6,
+            "category_id":1,
+            "category":"Text",
+            "answer":"20",
+            "correct_answer":0
+         },
+         { 
+            "id":7,
+            "category_id":1,
+            "category":"Text",
+            "answer":"30",
+            "correct_answer":0
+         },
+         { 
+            "id":8,
+            "category_id":1,
+            "category":"Text",
+            "answer":"40",
+            "correct_answer":0
+         }
+      ]
+   },
+   { 
+      "id":3,
+      "category_id":1,
+      "category":"Text",
+      "question":"Which is your city name?",
+      "answers":[ 
+         { 
+            "id":9,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Ferizaj",
+            "correct_answer":1
+         },
+         { 
+            "id":10,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Prishtine",
+            "correct_answer":0
+         },
+         { 
+            "id":11,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Pej",
+            "correct_answer":0
+         },
+         { 
+            "id":12,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Prizren",
+            "correct_answer":0
+         }
+      ]
+   },
+   { 
+      "id":2,
+      "category_id":2,
+      "category":"Photo",
+      "question":null,
+      "answers":[ 
+         { 
+            "id":1,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Shqipe",
+            "correct_answer":0
+         },
+         { 
+            "id":2,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Shqipe1",
+            "correct_answer":0
+         },
+         { 
+            "id":4,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Shqipe2",
+            "correct_answer":0
+         },
+         { 
+            "id":5,
+            "category_id":1,
+            "category":"Text",
+            "answer":"Shqipe3",
+            "correct_answer":1
+         }
+      ]
+   }
 ]
-},
-{
-"id": 3,
-"category_id": 1,
-"category": "Text",
-"question": "Which is your city name?",
-"answers": [
-{
-"id": 9,
-"category_id": 1,
-"category": "Text",
-"answer": "Ferizaj",
-"correct_answer": 1
-},
-{
-"id": 10,
-"category_id": 1,
-"category": "Text",
-"answer": "Prishtine",
-"correct_answer": 0
-},
-{
-"id": 11,
-"category_id": 1,
-"category": "Text",
-"answer": "Pej",
-"correct_answer": 0
-},
-{
-"id": 12,
-"category_id": 1,
-"category": "Text",
-"answer": "Prizren",
-"correct_answer": 0
-}
-]
-},
-{
-"id": 2,
-"category_id": 2,
-"category": "Photo",
-"question": null,
-"answers": [
-{
-"id": 1,
-"category_id": 1,
-"category": "Text",
-"answer": "Shqipe",
-"correct_answer": 0
-},
-{
-"id": 2,
-"category_id": 1,
-"category": "Text",
-"answer": "Shqipe1",
-"correct_answer": 0
-},
-{
-"id": 4,
-"category_id": 1,
-"category": "Text",
-"answer": "Shqipe2",
-"correct_answer": 0
-},
-{
-"id": 5,
-"category_id": 1,
-"category": "Text",
-"answer": "Shqipe3",
-"correct_answer": 1
-}
-]
-}
-]
-
