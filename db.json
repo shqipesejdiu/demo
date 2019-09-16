@@ -76,7 +76,7 @@
          "id":2,
          "category_id":2,
          "category":"Photo",
-         "question":null,
+         "question":"What is your name?",
          "answers":[ 
             { 
                "id":1,
