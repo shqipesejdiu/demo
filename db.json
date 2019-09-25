@@ -4,34 +4,34 @@
          "id":1,
          "category_id":1,
          "category":"Text",
-         "question":"What age are you?",
+         "question":"Which of the following control structures are looping statements? (I) DO…….WHILE (II) FOR…..NEXT (III) IF……THEN",
          "answers":[ 
             { 
                "id":3,
                "category_id":1,
                "category":"Text",
-               "answer":"22",
-               "correct_answer":1
+               "answer":"I only",
+               "correct_answer":0
             },
             { 
                "id":6,
                "category_id":1,
                "category":"Text",
-               "answer":"20",
-               "correct_answer":0
+               "answer":"II only",
+               "correct_answer":1
             },
             { 
                "id":7,
                "category_id":1,
                "category":"Text",
-               "answer":"30",
+               "answer":"I and II",
                "correct_answer":0
             },
             { 
                "id":8,
                "category_id":1,
                "category":"Text",
-               "answer":"40",
+               "answer":"II and III",
                "correct_answer":0
             }
          ]
@@ -40,71 +40,179 @@
          "id":3,
          "category_id":1,
          "category":"Text",
-         "question":"Which is your city name?",
+         "question":"A computer port is used to?",
          "answers":[ 
             { 
                "id":9,
                "category_id":1,
                "category":"Text",
-               "answer":"Ferizaj",
+               "answer":"A computer port is used to",
                "correct_answer":1
             },
             { 
                "id":10,
                "category_id":1,
                "category":"Text",
-               "answer":"Prishtine",
+               "answer":"Download files from the web",
                "correct_answer":0
             },
             { 
                "id":11,
                "category_id":1,
                "category":"Text",
-               "answer":"Pej",
+               "answer":"Communicate with all hard drives",
                "correct_answer":0
             },
             { 
                "id":12,
                "category_id":1,
                "category":"Text",
-               "answer":"Prizren",
+               "answer":"Connect computers together",
                "correct_answer":0
             }
          ]
       },
       { 
          "id":2,
-         "category_id":2,
-         "category":"Photo",
-         "question":"What is your name?",
+         "category_id":1,
+         "category":"Text",
+         "question":"Which of the following file extensions is not an audio file format?",
          "answers":[ 
             { 
                "id":1,
                "category_id":1,
                "category":"Text",
-               "answer":"Shqipe",
+               "answer":"MP3",
                "correct_answer":0
             },
             { 
                "id":2,
                "category_id":1,
                "category":"Text",
-               "answer":"Shqipe1",
+               "answer":"AIF",
                "correct_answer":0
             },
             { 
                "id":4,
                "category_id":1,
                "category":"Text",
-               "answer":"Shqipe2",
+               "answer":"COM",
+               "correct_answer":1
+            },
+            { 
+               "id":5,
+               "category_id":1,
+               "category":"Text",
+               "answer":"WAV",
+               "correct_answer":0
+            }
+         ]
+      },
+      { 
+         "id":5,
+         "category_id":1,
+         "category":"Text",
+         "question":"What type of command clears the screen in MS-DOS and the Windows command line?",
+         "answers":[ 
+            { 
+               "id":1,
+               "category_id":1,
+               "category":"Text",
+               "answer":"Cd",
+               "correct_answer":0
+            },
+            { 
+               "id":2,
+               "category_id":1,
+               "category":"Text",
+               "answer":"Clear",
+               "correct_answer":0
+            },
+            { 
+               "id":4,
+               "category_id":1,
+               "category":"Text",
+               "answer":"cls",
+               "correct_answer":1
+            },
+            { 
+               "id":5,
+               "category_id":1,
+               "category":"Text",
+               "answer":"echo",
+               "correct_answer":0
+            }
+         ]
+      },
+      { 
+         "id":6,
+         "category_id":1,
+         "category":"Text",
+         "question":"Which control structure is used to decide between two alternate courses of action?",
+         "answers":[ 
+            { 
+               "id":1,
+               "category_id":1,
+               "category":"Text",
+               "answer":"DO.....WHILE",
+               "correct_answer":0
+            },
+            { 
+               "id":2,
+               "category_id":1,
+               "category":"Text",
+               "answer":"FOR.....NEXT",
+               "correct_answer":0
+            },
+            { 
+               "id":4,
+               "category_id":1,
+               "category":"Text",
+               "answer":"GOTO",
                "correct_answer":0
             },
             { 
                "id":5,
                "category_id":1,
                "category":"Text",
-               "answer":"Shqipe3",
+               "answer":"IF.....THEN",
                "correct_answer":1
+            }
+         ]
+      },
+      { 
+         "id":7,
+         "category_id":1,
+         "category":"Text",
+         "question":"What is 10100110?",
+         "answers":[ 
+            { 
+               "id":1,
+               "category_id":1,
+               "category":"Text",
+               "answer":"111",
+               "correct_answer":0
+            },
+            { 
+               "id":2,
+               "category_id":1,
+               "category":"Text",
+               "answer":"121",
+               "correct_answer":0
+            },
+            { 
+               "id":4,
+               "category_id":1,
+               "category":"Text",
+               "answer":"166",
+               "correct_answer":1
+            },
+            { 
+               "id":5,
+               "category_id":1,
+               "category":"Text",
+               "answer":"155",
+               "correct_answer":0
             }
          ]
       }
