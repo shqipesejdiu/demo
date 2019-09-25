@@ -4,34 +4,34 @@
          "id":1,
          "category_id":1,
          "category":"Text",
-         "question":"Which of the following control structures are looping statements",
+         "question":"Which of the following control structures are looping statements?",
          "answers":[ 
             { 
                "id":3,
                "category_id":1,
                "category":"Text",
-               "answer":"DO…….WHILE",
+               "answer":"DO...WHILE",
                "correct_answer":0
             },
             { 
                "id":6,
                "category_id":1,
                "category":"Text",
-               "answer":"FOR…..NEXT",
+               "answer":"FOR...NEXT",
                "correct_answer":1
             },
             { 
                "id":7,
                "category_id":1,
                "category":"Text",
-               "answer":"IF……THEN and FOR…..NEXT",
+               "answer":"IF...THEN and FOR...NEXT",
                "correct_answer":0
             },
             { 
                "id":8,
                "category_id":1,
                "category":"Text",
-               "answer":"DO…….WHILE and IF……THEN",
+               "answer":"DO...WHILE and IF...THEN",
                "correct_answer":0
             }
          ]
